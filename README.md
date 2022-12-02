@@ -1,1 +1,1 @@
-# amenities
+# goit-markup-hw-08
